@@ -1,0 +1,56 @@
+{
+  "quiz": {
+    "sport": {
+      "q1": {
+        "question": "Which one is correct team name in NBA?",
+        "options": [
+			{"id": 1,
+			 "option": "New York Bulls"
+			},
+			{"id": 2,
+			 "option": "Los Angeles Kings"
+			},
+			{"id": 3,
+			 "option": "Golden State Warriros"
+			},
+			{"id": 4,
+			 "option": "Huston Rocket"
+			}
+		],
+		"answer": 4
+		}
+	},
+    "maths": {
+      "q1": {
+        "question": "5 + 7 = ?",
+        "options": [
+          {"id": 1,
+		   "option": "10"},
+          {"id": 2,
+		   "option": "11"},
+          {"id": 3,
+		   "option": "12"},
+          {"id": 4,
+		   "option": "13"}
+        ],
+        "answer": 3
+      }
+    },
+    "test": {
+      "q1": {
+        "question": "It is test question",
+        "options": [
+          {"id": 1,
+		   "option": "test1"},
+          {"id": 2,
+		   "option": "test2"},
+          {"id": 3,
+		   "option": "test3"},
+          {"id": 4,
+		   "option": "test4"}
+        ],
+        "answer": 3
+      }
+    }
+  }
+}
